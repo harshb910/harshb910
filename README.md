@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Harsh Badwaik</h1>
-<h3 align="center">I am a 4th-year undergraduate pursuing B.Tech from Indian Institute of Technology, Indore(IIT Indore). I love to solve problems.I am a competitive programmer, 4★ on Codechef(max rated 1939). I also learnt about Web Development.</h3>
+<h3 align="center">SDE at Razorpay and undergraduate from Indian Institute of Technology in Indore in electrical engineering.
+I enjoy solving algorithmic problems and participate actively in Competitive Programming. I am a passionate problem solver and always eager to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshb910&label=Profile%20views&color=0e75b6&style=flat" alt="harshb910" /> </p>
 <h3>Github Profile Trophy</h3>
